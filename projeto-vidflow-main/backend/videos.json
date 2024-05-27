@@ -1,4 +1,11 @@
 {
+    "usuarios": [
+      {
+        "id": 1,
+        "codUser": "rodolfo.belo",
+        "email": "rodolfo.belo87@gmail.com"
+      }
+  ],  
     "videos": [
       {
         "id": 1,
